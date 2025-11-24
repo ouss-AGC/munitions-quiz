@@ -1,0 +1,40 @@
+{
+  "quizTitle": "Devoir de Contrôle - Généralités sur les Munitions LASM 3 - 2025/2026",
+  "creator": "Lt Col Oussama Atoui - Armes and Ammunitions instructor",
+  "module": "Généralités Munitions",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Question exemple 1 - À remplacer par les vraies questions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Question exemple 2 - À remplacer par les vraies questions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "Question exemple 3 - À remplacer par les vraies questions",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
